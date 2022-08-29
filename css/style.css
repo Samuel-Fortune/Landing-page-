@@ -602,3 +602,10 @@ body {
   margin-top: 20px;
   margin-bottom: 50px;
 }
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  margin: 20px;
+}
