@@ -4,6 +4,7 @@
   list-style: none;
   text-decoration: none;
   box-sizing: border-box;
+
 }
 
 body {
@@ -12,6 +13,7 @@ body {
   font-family: Open Sans;
   color: #2f2e41;
   position: relative;
+  background-color: cornflowerblue;
 }
 
 .ml-auto, .mx-auto {
@@ -150,11 +152,11 @@ img.header-image {
   justify-content: center;
   letter-spacing: 67px;
   font-size: 50px;
-  color: #C9C6CE;
+  color: #777;
 }
 
 .fa fa-whatsapp {
-  color: #C9C6CE;
+  color: #777;
 }
 
 @media (max-width: 988px) {
@@ -177,7 +179,7 @@ img.flex-image {
 }
 
 .flex-paragraph {
-  color: #9893a3;
+  color: #777;
   font-size: 15px;
   line-height: 30px;
   font-weight: 200;
@@ -272,7 +274,7 @@ img.flex-image1 {
 }
 
 .flex-paragraph1 {
-  color: #9893a3;
+  color: #777;
   font-size: 15px;
   line-height: 30px;
   font-weight: 200;
@@ -367,7 +369,7 @@ img.flex-image2 {
 }
 
 .flex-paragraph2 {
-  color: #9893a3;
+  color: #777;
   font-size: 15px;
   line-height: 30px;
   font-weight: 200;
@@ -491,7 +493,7 @@ section#plans {
 }
 
 .card-body p {
-  color: #9893a3;
+  color: #777;
   font-size: 15px;
   line-height: 30px;
   font-weight: 200;
@@ -593,7 +595,7 @@ body {
 .footer p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #9893a3;
+  color: #777;
   font-size: 15px;
   line-height: 30px;
   font-weight: 200;
